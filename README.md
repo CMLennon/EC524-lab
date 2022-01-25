@@ -6,4 +6,4 @@ Lab note 2: [dplyr](https://rawcdn.githack.com/CMLennon/EC524-lab/56d5919fe01ce8
 
 Lab note 3: [Tidymodels](https://rawcdn.githack.com/CMLennon/EC524-lab/50e7700beaf195390acda423fa70bd33c6749daf/004-Tidymodels/004-slides.html)
 
-Lab note 4: [Neural Networks for Beginners]()
+Lab note 4: [Neural Networks for Beginners](https://rawcdn.githack.com/CMLennon/EC524-lab/7728756dda5af7219b37f307c4b59780b4004658/005-Perceptrons_and_NeuralNets/005-slides.html)
